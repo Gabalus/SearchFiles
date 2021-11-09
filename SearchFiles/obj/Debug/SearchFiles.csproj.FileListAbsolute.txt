@@ -1,0 +1,10 @@
+C:\Users\Gabalus\Source\Repos\SearchFiles\SearchFiles\bin\Debug\SearchFiles.exe.config
+C:\Users\Gabalus\Source\Repos\SearchFiles\SearchFiles\bin\Debug\SearchFiles.exe
+C:\Users\Gabalus\Source\Repos\SearchFiles\SearchFiles\bin\Debug\SearchFiles.pdb
+C:\Users\Gabalus\Source\Repos\SearchFiles\SearchFiles\obj\Debug\SearchFiles.csprojAssemblyReference.cache
+C:\Users\Gabalus\Source\Repos\SearchFiles\SearchFiles\obj\Debug\SearchFiles.Form1.resources
+C:\Users\Gabalus\Source\Repos\SearchFiles\SearchFiles\obj\Debug\SearchFiles.Properties.Resources.resources
+C:\Users\Gabalus\Source\Repos\SearchFiles\SearchFiles\obj\Debug\SearchFiles.csproj.GenerateResource.cache
+C:\Users\Gabalus\Source\Repos\SearchFiles\SearchFiles\obj\Debug\SearchFiles.csproj.CoreCompileInputs.cache
+C:\Users\Gabalus\Source\Repos\SearchFiles\SearchFiles\obj\Debug\SearchFiles.exe
+C:\Users\Gabalus\Source\Repos\SearchFiles\SearchFiles\obj\Debug\SearchFiles.pdb
